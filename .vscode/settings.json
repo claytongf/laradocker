@@ -1,0 +1,20 @@
+{
+  "cSpell.ignoreWords": [
+    "claytongf",
+    "cloudbuild",
+    "cloudsdk",
+    "cloudsdk container cluster",
+    "cluster",
+    "container",
+    "entrypoint",
+    "fastcgi",
+    "fastcgi split path info",
+    "gcloud",
+    "info",
+    "kubectl",
+    "laravel",
+    "path",
+    "phpunit",
+    "split"
+  ]
+}
